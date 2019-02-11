@@ -1,0 +1,11 @@
+C:\Users\SuleymanSHs\source\repos\MiniAspNetCOREMvcTask\01MiniWebApp\bin\Debug\netcoreapp2.0\MiniWebApp.deps.json
+C:\Users\SuleymanSHs\source\repos\MiniAspNetCOREMvcTask\01MiniWebApp\bin\Debug\netcoreapp2.0\MiniWebApp.runtimeconfig.json
+C:\Users\SuleymanSHs\source\repos\MiniAspNetCOREMvcTask\01MiniWebApp\bin\Debug\netcoreapp2.0\MiniWebApp.runtimeconfig.dev.json
+C:\Users\SuleymanSHs\source\repos\MiniAspNetCOREMvcTask\01MiniWebApp\bin\Debug\netcoreapp2.0\MiniWebApp.dll
+C:\Users\SuleymanSHs\source\repos\MiniAspNetCOREMvcTask\01MiniWebApp\bin\Debug\netcoreapp2.0\MiniWebApp.pdb
+C:\Users\SuleymanSHs\source\repos\MiniAspNetCOREMvcTask\01MiniWebApp\obj\Debug\netcoreapp2.0\MiniWebApp.csproj.CoreCompileInputs.cache
+C:\Users\SuleymanSHs\source\repos\MiniAspNetCOREMvcTask\01MiniWebApp\obj\Debug\netcoreapp2.0\MiniWebApp.AssemblyInfoInputs.cache
+C:\Users\SuleymanSHs\source\repos\MiniAspNetCOREMvcTask\01MiniWebApp\obj\Debug\netcoreapp2.0\MiniWebApp.AssemblyInfo.cs
+C:\Users\SuleymanSHs\source\repos\MiniAspNetCOREMvcTask\01MiniWebApp\obj\Debug\netcoreapp2.0\MiniWebApp.dll
+C:\Users\SuleymanSHs\source\repos\MiniAspNetCOREMvcTask\01MiniWebApp\obj\Debug\netcoreapp2.0\MiniWebApp.pdb
+C:\Users\SuleymanSHs\source\repos\MiniAspNetCOREMvcTask\01MiniWebApp\obj\Debug\netcoreapp2.0\MiniWebApp.csprojResolveAssemblyReference.cache
